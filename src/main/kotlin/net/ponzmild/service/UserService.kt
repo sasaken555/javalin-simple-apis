@@ -1,8 +1,8 @@
-package service
+package net.ponzmild.service
 
-import entity.UserEntity
+import net.ponzmild.entity.UserEntity
 import io.javalin.Context
-import repository.UserRepository
+import net.ponzmild.repository.UserRepository
 
 class UserService {
 

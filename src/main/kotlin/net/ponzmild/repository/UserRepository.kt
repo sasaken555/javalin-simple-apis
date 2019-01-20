@@ -1,6 +1,6 @@
-package repository
+package net.ponzmild.repository
 
-import entity.UserEntity
+import net.ponzmild.entity.UserEntity
 import java.util.concurrent.atomic.AtomicInteger
 
 class UserRepository {

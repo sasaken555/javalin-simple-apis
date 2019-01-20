@@ -1,6 +1,8 @@
+package net.ponzmild
+
 import io.javalin.Javalin
 import io.javalin.apibuilder.ApiBuilder.*
-import service.UserService
+import net.ponzmild.service.UserService
 import java.lang.Exception
 
 fun main(args: Array<String>) {
